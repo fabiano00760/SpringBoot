@@ -36,3 +36,23 @@ excluir medico
 
 codigo: 
 ![image](https://github.com/fabiano00760/SpringBoot/assets/80015492/8249c1d1-30a8-4407-a617-dfbe9e97e5eb)
+
+criar banco de dados utilizando "appication.properties" configuraçoes .
+![image](https://github.com/fabiano00760/SpringBoot/assets/80015492/ae2f9d34-dfa1-4fd3-8b75-b8541aee1318)
+
+db.migration utilizando "flywaydb"
+![image](https://github.com/fabiano00760/SpringBoot/assets/80015492/7a2d1816-3f9f-45df-a6bb-0dd3bd167e72)
+
+V1__cerate-table-meducos.sql:
+![image](https://github.com/fabiano00760/SpringBoot/assets/80015492/c86bc138-2c27-4bfb-8a17-4497cf55493d)
+V2__alter-table-medicos-add-column.sql
+![image](https://github.com/fabiano00760/SpringBoot/assets/80015492/a3affeea-9956-48b4-a37e-9634e3ef312c)
+V3__alter-table-medicos-add-column-ativos.sql
+![image](https://github.com/fabiano00760/SpringBoot/assets/80015492/3585093f-6892-4459-aed8-3d5134f7b069)
+
+
+
+
+
+
+
