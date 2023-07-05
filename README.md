@@ -7,7 +7,7 @@ projeto criado spring boot
 ![image](https://github.com/fabiano00760/SpringBoot/assets/80015492/484ade34-5b4f-4435-89dd-c407206abe39)
 
 
-![image](https://github.com/fabiano00760/SpringBoot/assets/80015492/1fe45e6b-16d9-46cd-abd6-91a3b34de2c6)
+![image](https://github.com/fabiano00760/SpringBoot/assets/80015492/9bb3002c-18c0-42e2-9168-c70f262a3c73)
 
 Lembrando que focamos na parte de back-end, na API Rest, e continuaremos trabalhando nesse projeto da clínica médica. Desenvolvemos o CRUD de médicos e pacientes, e daremos prosseguimento neste curso.
 
