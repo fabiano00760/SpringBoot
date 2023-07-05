@@ -3,6 +3,9 @@ Desenvolvimento de uma API Rest
 CRUD (Create, Read, Update e Delete)
 Validações
 Paginação e ordenação
+projeto criado spring boot 
+![image](https://github.com/fabiano00760/SpringBoot/assets/80015492/484ade34-5b4f-4435-89dd-c407206abe39)
+
 
 ![image](https://github.com/fabiano00760/SpringBoot/assets/80015492/1fe45e6b-16d9-46cd-abd6-91a3b34de2c6)
 
